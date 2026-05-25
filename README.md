@@ -2,7 +2,8 @@
 **SQL | SQLite | 1.29M+ Transactions**
 
 ## What This Project Does
-Analyzes 1.29 million real credit card transactions to detect fraud patterns, flag high-risk merchants, and identify spending anomalies using SQL in SQLite.
+Analyzes 1.29 million real credit card transactions to detect fraud patterns,
+flag high-risk merchants, and identify spending anomalies using SQL in SQLite.
 
 ## Key Findings
 - **Fraud rate: 0.58%** — 7,506 fraudulent transactions out of 1.29M+
@@ -19,8 +20,7 @@ Analyzes 1.29 million real credit card transactions to detect fraud patterns, fl
 5. Spending anomaly detection — fraud vs. legitimate transaction amounts
 
 ## Tools
-- SQLite
-- DB Browser for SQLite
+- SQLite | DB Browser for SQLite
 
 ## Dataset
 [Credit Card Fraud Detection — Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
@@ -28,3 +28,6 @@ Analyzes 1.29 million real credit card transactions to detect fraud patterns, fl
 ## Files
 - `fraud_detection.sql` — all 5 SQL queries
 - `Fraud_Detection_SQL_Analysis.pdf` — full analysis with results and insights
+
+---
+*Part of my data analytics portfolio — [github.com/Deepanjalimalik](https://github.com/Deepanjalimalik)*
